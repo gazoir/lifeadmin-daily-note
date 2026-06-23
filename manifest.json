@@ -1,0 +1,10 @@
+{
+  "id": "lifeadmin-daily-note",
+  "name": "LifeAdmin Daily Note",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Static dashboard widgets for daily notes (weather, Hevy, weight, habits) with Templater bake and click-to-refresh.",
+  "author": "gazoir",
+  "authorUrl": "https://github.com/gazoir",
+  "isDesktopOnly": false
+}
